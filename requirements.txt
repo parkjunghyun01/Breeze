@@ -1,0 +1,6 @@
+streamlit
+streamlit-cookies-manager
+streamlit-geolocation
+requests
+folium
+streamlit-folium
